@@ -1,4 +1,4 @@
-# NavegadorMaia
+# Navegador Maia
 Navegador de internet feito em Python e Tkinter
 <p align="center">
 <img src="NavegadorMaia.png"/>
